@@ -1,0 +1,22 @@
+{
+  "name": "lzomedia/block-lab",
+  "type": "wordpress-plugin",
+  "description": "A plugin to help you to create block for Wordpress editor Gutenberg",
+  "keywords": [ "wordpress" ],
+  "homepage": "https://lzomedia",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Stefan Izdrail",
+      "email": "stefan@Lzomedia.com",
+      "homepage": "https://lzomedia.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/lzomedia/block-lab/issues",
+    "source": "https://github.com/lzomedia/block-lab/"
+  },
+  "require": {
+    "php": ">=7.1"
+  },
+}
